@@ -6,7 +6,9 @@
 </p>
 
 <br>
-
+<p align="center">
+  <img alt="projeto Links" src=".github/preview.png" width="100%">
+  </p>
 
 ## 🚀 Tecnologias
 
